@@ -1,0 +1,52 @@
+body{
+    background-color: burlywood;
+    
+    
+    margin-left: 250px;
+    
+    width: 800px;
+
+}
+
+.leslistesapuce {
+    background-color: chocolate;
+    text-decoration: darkgray;
+
+}
+
+.leslistesnumérotées {
+    background-color: darkkhaki;
+    text-decoration: darkgray;
+
+
+}
+
+.lesdifferentsniveauxdetitre {
+    background-color: darkred;
+    text-decoration: darkgray;
+}
+
+.mettreletitreengras {
+    background-color: darkorange;
+    text-decoration: darkgray;
+}
+
+.letravaildejulien {
+    background-color: deeppink;
+    text-decoration: darkgray;
+}
+
+.colorisationsyntaxique {
+    background-color: greenyellow;
+    text-decoration: darkgray;
+}
+
+.colorisationsyntaxique3 {
+    background-color: mediumorchid;
+    text-decoration: darkgray;
+}
+
+.imagestatique {
+    background-color: darkgreen;
+    text-decoration: darkgray;
+}
